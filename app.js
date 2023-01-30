@@ -1,7 +1,7 @@
 const height = +prompt("balandlik qiymatini sonlar orqali kiriting");
 const width = +prompt("eni qiymatini sonlar orqali kiriting");
-const x = (width + "rem")
-const y = (height + "rem")
+const x = (width + "rem");
+const y = (height + "rem");
 const yuzasi = height * width;
 const formula =2*(height + width);
 document.getElementById("tortburchak").style.border  = "solid 5px";
