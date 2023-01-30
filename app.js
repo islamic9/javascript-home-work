@@ -1,5 +1,5 @@
-const height = +prompt("balandlik qiymatini sonlar orqali kiriting");
-const width = +prompt("eni qiymatini sonlar orqali kiriting");
+const height = +prompt("please! enter a height value");
+const width = +prompt("please! enter a width value");
 const x = (width + "rem");
 const y = (height + "rem");
 const yuzasi = height * width;
